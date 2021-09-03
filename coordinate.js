@@ -1,3 +1,5 @@
+//This class represents a square of the board
+
 class Coordinate {
 
     constructor(x, y) {
